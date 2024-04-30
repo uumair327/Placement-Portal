@@ -132,7 +132,7 @@ require_once("../db.php");
 
     <footer class="main-footer" style="margin-left: 0px;">
         <div class="text-center">
-            <strong>Copyright &copy; 2022 <a href="#">Placement Portal</a>.</strong> All rights
+            <strong>Copyright &copy; 2024 <a href="#">Placement Portal</a>.</strong> All rights
             reserved.
         </div>
     </footer>

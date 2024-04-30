@@ -33,10 +33,10 @@ require_once("db.php");
     <section id="hero-animated" class="hero-animated d-flex align-items-center">
         <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
             <img src="assets/img/hero-carousel/hero-carousel-1.svg" class="img-fluid animated">
-            <h2>Welcome to <span>Placement Cell</span></h2>
+            <h2>Welcome to <span style="background-color: #ffffff; color: #a50c22;">Placement Cell</span></h2>
             <p>We Will Support You In Your Entire Placement Journey.</p>
             <div class="d-flex">
-                <a href="login.php" class="btn-get-started scrollto">Get Started</a>
+                <a href="login.php" class="btn-get-started scrollto" style="background-color: #a50c22; color: #ffffff;">Get Started</a>
 
             </div>
         </div>
@@ -44,7 +44,7 @@ require_once("db.php");
 
     <main id="main">
 
-        
+
 
         </div>
 
@@ -54,14 +54,14 @@ require_once("db.php");
 
 
 
-        
+
         <section id="cta" class="cta">
             <div class="container" data-aos="zoom-out">
 
                 <div class="row g-5">
 
                     <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
-                        <h3>Placement <em>Portal</em> </h3>
+                        <h3>Placement <em style="color: #a50c22;">Portal</em> </h3>
                         <p>The Placement Cell plays a crucial role in locating job
                             opportunities for under graduates and post graduates passing out from the college by
                             keeping in touch with reputed firms and industrial establishments.
@@ -69,7 +69,7 @@ require_once("db.php");
                             and graduates. The number of students placed through the campus interviews is
                             continuously rising.
                         </p>
-                        <a class="cta-btn align-self-start" href="#">Get Started</a>
+                        <a class="cta-btn align-self-start" style="background-color: #a50c22; color: #ffffff;" href="#">Get Started</a>
                     </div>
 
                     <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
@@ -119,12 +119,12 @@ require_once("db.php");
                                     Our Placement Portal serves various objectives:
                                 </p>
                                 <ul>
-                                    <li><i class="bi bi-check-circle-fill"></i> Developing the students to meet the Industries recruitment process.
+                                    <li><i class="bi bi-check-circle-fill" style="background-color: #ffffff; color: #a50c22;"></i> Developing the students to meet the Industries recruitment process.
                                     </li>
-                                    <li><i class="bi bi-check-circle-fill"></i> To motivate students to develop Technical knowledge and soft skills in
+                                    <li><i class="bi bi-check-circle-fill" style="background-color: #ffffff; color: #a50c22;"></i> To motivate students to develop Technical knowledge and soft skills in
                                         terms of career planning, goal setting.
                                     </li>
-                                    <li><i class="bi bi-check-circle-fill"></i> To produce world-class professionals who have excellent analytical skills,
+                                    <li><i class="bi bi-check-circle-fill" style="background-color: #ffffff; color: #a50c22;"></i> To produce world-class professionals who have excellent analytical skills,
                                         communication skills, team building spirit and ability to work in cross cultural
                                         environment.</li>
 
@@ -266,7 +266,7 @@ require_once("db.php");
 
     <!-- End Footer -->
 
-    
+
 
 </body>
 

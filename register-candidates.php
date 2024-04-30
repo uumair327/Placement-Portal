@@ -150,12 +150,12 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
     <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
-        <strong>Copyright &copy; 2022 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
+        <strong>Copyright &copy; 2024 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
         reserved.
       </div>
     </footer>
 
-    
+
     <div class="control-sidebar-bg"></div>
 
   </div>
@@ -171,14 +171,14 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <script type="text/javascript">
     function validatePhone(event) {
 
-      
+
       var key = window.event ? event.keyCode : event.which;
 
       if (event.keyCode == 8 || event.keyCode == 46 || event.keyCode == 37 || event.keyCode == 39) {
-        
+
         return true;
       } else if (key < 48 || key > 57) {
-       
+
         return false;
       } else return true;
     }

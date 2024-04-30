@@ -60,13 +60,35 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>Jyothy Institute Of Technology,Bangalore.</p>
+                <p>KJ Somaiya Institute Of Technology,Mumbai(Sion).</p>
             </div>
 
         </div>
 
         <div class="map">
-        <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Jyothy Institute of Technology&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://mcpedls.com/">Minecraft Download</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:600px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:600px;}.gmap_iframe {width:100%!important;height:600px!important;}</style></div>
+            <div class="mapouter">
+                <div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=KJ Somaiya Institute of Technology&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://mcpedls.com/">Minecraft Download</a></div>
+                <style>
+                    .mapouter {
+                        position: relative;
+                        text-align: right;
+                        width: 100%;
+                        height: 600px;
+                    }
+
+                    .gmap_canvas {
+                        overflow: hidden;
+                        background: none !important;
+                        width: 100%;
+                        height: 600px;
+                    }
+
+                    .gmap_iframe {
+                        width: 100% !important;
+                        height: 600px !important;
+                    }
+                </style>
+            </div>
         </div><!-- End Google Maps -->
 
         <div class="container">
@@ -83,7 +105,7 @@
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
-                                <p>Jyothy Institute Of Technology, Pipeline Rd, near Ravi Shankar Guruji Ashram, Thathaguni, Karnataka 560082</p>
+                                <p>Somaiya Ayurvihar Complex Eastern Express Highway Near Everard Nagar, Sion East, Mumbai, Maharashtra 400022</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,7 +113,7 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
-                                <p><a href="mailto:rekha.kv.placements@jyothyit.ac.in">rekha.kv.placements@jyothyit.ac.in</a></p>
+                                <p><a href="mailto:mohdumair.a@somaiya.edu">mohdumair.a@somaiya.edu</a></p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -99,7 +121,7 @@
                             <i class="bi bi-phone flex-shrink-0"></i>
                             <div>
                                 <h4>Call:</h4>
-                                <p>97428 59408</p>
+                                <p>022 2406 1408</p>
                             </div>
                         </div><!-- End Info Item -->
 

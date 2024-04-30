@@ -131,7 +131,7 @@ if (isset($_SESSION['id_admin'])) {
       <div class="pt-1 pb-2">
         <ul class="flex  space-x-16 justify-center text-white my-4 ">
 
-          <li><i class="fa fa-copyright" aria-hidden="true"></i>Placement Portal @ 2022</li>
+          <li><i class="fa fa-copyright" aria-hidden="true"></i>Placement Portal @ 2024</li>
           <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
           <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
           <li><i class="fa fa-instagram" aria-hidden="true"></i></li>

@@ -106,7 +106,7 @@ if ($result1->num_rows > 0) {
 
     <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center mb-0">
-        <strong>Copyright &copy; 2022 <a href="#">Placement Portal</a>.</strong> All rights
+        <strong>Copyright &copy; 2024 <a href="#">Placement Portal</a>.</strong> All rights
         reserved.
       </div>
     </footer>
