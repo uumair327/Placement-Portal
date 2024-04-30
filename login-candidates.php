@@ -39,7 +39,7 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 
-<body class="hold-transition login-page bg-blue-100 text-white">
+<body class="hold-transition login-page bg-blue-100 text-white h-full">
 
 
   <!-- <header> -->
@@ -58,11 +58,11 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <div class="login-box hello">
     <div class="login-logo ">
 
-      <a href="index.php" style="color:black"><b>Placement Portal</b></a>
+      <a href="index.php" style="color:black;"><b>Placement Portal</b></a>
     </div>
     <!-- /.login-logo -->
-    <div class="login-box-body bg-blue-200 text-black ">
-      <p class="login-box-msg text-2xl text-black">Student Login</p>
+    <div class="login-box-body px-24 rounded-xl" style="border:1px solid #a50c22; color: #000000; background-color: #F2D7D5">
+      <p class="login-box-msg text-2xl text-black text-3xl">Student Login</p>
 
       <form method="post" action="checklogin.php " class="text-xl">
         <div class="form-group has-feedback">
@@ -76,8 +76,6 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
         <style>
           #large {
             font-size: medium;
-
-
           }
         </style>
         <div class="row ">
@@ -89,6 +87,10 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
             <button type="submit" class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">Sign In</button>
           </div>
           <!-- /.col -->
+        </div>
+        <div class=" flex flex-row justify-between mt-4">
+          <p>Dont have an Account?</p>
+          <a class="text-xl text-black" href="register-candidates.php">Create new account</a>
         </div>
       </form>
 
@@ -144,7 +146,7 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
     </div>
 
-    <a class="text-xl text-black" href="register-candidates.php">Create new account</a>
+    
     <!-- /.login-box-body -->
   </div>
   <!-- /.login-box -->

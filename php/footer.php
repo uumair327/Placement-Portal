@@ -1,4 +1,4 @@
-<footer id="footer" class="footer" style="background-color: #a50c22; color: #ffffff;">
+<footer id="footer" class="footer" style="background-color: #a50c22; color: #ffffff; position: relative; left: 0; bottom: 0; width: 100%;">
 
 
 

@@ -3280,7 +3280,9 @@ table.text-center th {
 }
 .login-box,
 .register-box {
-  width: 360px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
   margin: 7% auto;
 }
 @media (max-width: 768px) {
@@ -3294,7 +3296,7 @@ table.text-center th {
 .register-box-body {
   background: #fff;
   padding: 20px;
-  border-top: 0;
+  border: 0;
   color: #666;
 }
 .login-box-body .form-control-feedback,
