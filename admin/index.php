@@ -43,20 +43,20 @@ if (isset($_SESSION['id_admin'])) {
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 
-<body class="hold-transition login-page bg-gray-800 text-white">
+<body class="hold-transition login-page" style="background-color: #ffffff; color: #a50c22;">
 
 
   <?php
   include '../uploads/admin_header.php';
   ?>
 
-  <div class="login-box " id="sms">
+  <div class="login-box" id="sms">
 
-    <div class="login-logo text-white">
-      <a style="color:white" href="../index.php">Placement Portal</a>
+    <div class="login-logo" style="color: #a50c22;">
+      <a href="../index.php">Placement Portal</a>
     </div>
     <!-- /.login-logo -->
-    <div class="bg-gray-900 text-white login-box-body large">
+    <div class="login-box-body large" style="background-color: #a50c22; color: #ffffff;">
       <p class="login-box-msg mt-7">Admin Login</p>
       <style>
         .large {
@@ -102,7 +102,7 @@ if (isset($_SESSION['id_admin'])) {
         <div class="row">
           <!-- /.col -->
           <div class="col-xs-4">
-            <button type="submit" class="btn btn-primary btn-block btn-flat" class=" transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">Sign In</button>
+            <button type="submit" class="btn btn-primary btn-block btn-flat" style="background-color: #ffffff; color: #a50c22;">Sign In</button>
           </div>
           <!-- /.col -->
         </div>

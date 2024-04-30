@@ -62,7 +62,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 1rem 1.5rem;
-        background-color: #2d2a2e;
+        background-color: #a50c22;
     }
 
     .hamburger {
@@ -76,7 +76,7 @@
         margin: 5px auto;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: #101010;
+        background-color: #a50c22;
 
     }
 
@@ -139,7 +139,7 @@
 
     }
 
-    // Inside the Media Query.
+    /* Inside the Media Query. */
 
     .hamburger.active .bar:nth-child(2) {
         opacity: 0;
