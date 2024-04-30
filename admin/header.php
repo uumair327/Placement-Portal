@@ -1,6 +1,6 @@
 <!-- Main header -->
 <header class="header">
-    <nav class="navbar">
+    <nav class="navbar" style="background-color: #a50c22; color: #ffffff;">
         <a href="#" class="nav-logo">Placement Portal</a>
         <ul class="nav-menu">
             <li class="nav-item">
@@ -54,7 +54,7 @@
     }
 
     .header {
-        border-bottom: 1px solid #E2E8F0;
+        border-bottom: 1px solid #a50c22;
     }
 
     .navbar {
@@ -112,7 +112,7 @@
             left: -100%;
             top: 5rem;
             flex-direction: column;
-            background-color: #0b0606;
+            background-color: #a50c22;
             /* background-color: #482ff7; */
             width: 100%;
             border-radius: 10px;
